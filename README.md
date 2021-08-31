@@ -1,9 +1,9 @@
 # MATH 100.2: Topics in Financial Mathematics II
-First Semester, S.Y. 2021-2022
+**First Semester, S.Y. 2021-2022**
 
-Ateneo de Manila University
+**Ateneo de Manila University**
 
-Instructors:
+### Instructors:
 
 Jakov Ivan S. Dumbrique - [jdumbrique@ateneo.edu](jdumbrique@ateneo.edu)
 
